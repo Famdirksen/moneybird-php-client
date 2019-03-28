@@ -1,5 +1,7 @@
 # moneybird-php-client
 
+> This package is a clone of picqer/moneybird-php-client (https://github.com/picqer/moneybird-php-client) to extend the flexability this package offers (long time no response and we need to go on with the development). All credits go to the origin creators.
+
 [![Build Status](https://travis-ci.org/picqer/moneybird-php-client.svg?branch=master)](https://travis-ci.org/picqer/moneybird-php-client)
 
 PHP Client for Moneybird V2
